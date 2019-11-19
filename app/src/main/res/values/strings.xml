@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_1014</string>
+    <string name="peripheral_screen">Peripheral/Server screen</string>
+    <string name="status_error_when_connecting">An error occurred when connecting to a device. Error Code</string>
+    <string name="error_unknown">Unknown error.</string>
+    <string name="student_name">alice chen</string>
+    <string name="student_number">107064537</string>
+    <string name="phone_number">0956883866</string>
+</resources>
